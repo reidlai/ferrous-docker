@@ -1,5 +1,7 @@
 # ferrous-docker
 
+[← Back to FerrousCX Root Architecture](https://github.com/reidlai/ferrous-cx)
+
 > **Unified Multi-Container Runtime Orchestration & OpenTelemetry Telemetry for FerrousCX**  
 > Complete local developer orchestration harness managing all 12 platform submodules via Docker Compose with explicit dependency graphs, healthcheck gating, pre-commit automation, and 3-tier OpenTelemetry developer runtime.
 
